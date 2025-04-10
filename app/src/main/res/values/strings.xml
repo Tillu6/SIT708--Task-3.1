@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title_sit708">SIT708 Quiz App</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="hint_name">e.g. John Smith</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="open_calculator">Open Calculator</string>
+
+    <string name="activity_main_desc">Main Activity Screen</string>
+
+    <string name="congrats_user">Congratulations %1$s!</string>
+    <string name="congrats_default">Congratulations!</string>
+    <string name="result_score_display">Your Score: %1$d/%2$d</string>
+    <string name="result_default">Your Score: 0/0</string>
+    <string name="take_new_quiz">Take New Quiz</string>
+    <string name="finish">Finish</string>
+</resources>

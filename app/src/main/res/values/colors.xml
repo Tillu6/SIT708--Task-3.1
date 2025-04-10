@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="colorPrimary">#1de9b6</color>
+    <color name="colorPrimaryVariant">#00bfa5</color>
+    <color name="colorOnPrimary">#000000</color>
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#00b0ff</color>
+    <color name="colorSecondaryVariant">#0091ea</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+
+    <!-- Accent and Highlight Colors -->
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorSuccess">#4caf50</color>
+    <color name="colorWarning">#fbc02d</color>
+    <color name="colorError">#ef5350</color>
+    <color name="colorInfo">#29b6f6</color>
+
+    <!-- Backgrounds -->
+    <color name="backgroundLight">#FFFFFF</color>
+    <color name="backgroundDark">#1e3c72</color>
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textDark">#000000</color>
+
+    <!-- Custom ProgressBar Tint -->
+    <color name="progressGreen">#00e676</color>
+</resources>
