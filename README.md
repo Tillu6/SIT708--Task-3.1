@@ -42,10 +42,9 @@ Here are some screenshots to give you a taste of the app's futuristic design:
 
 *Result Screen: See your final score and retry options.*
 
-![Calculator Screen](images/calculator_screen.png)  
-*Calculator Screen: Perform quick arithmetic operations.*
+<img width="236" alt="image" src="https://github.com/user-attachments/assets/78d7b003-c7af-45ab-89b8-7fb7d15c0084" />
 
-> **Note:** Replace the image paths (`images/main_screen.png`, etc.) with the actual paths to your screenshots stored in your repository.
+*Calculator Screen: Perform quick arithmetic operations.*
 
 ## Installation
 
